@@ -1,4 +1,4 @@
-# moneysharesau
+# Money Share
 
 A new Flutter project.
 
