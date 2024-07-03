@@ -1,16 +1,8 @@
 # Money Share
 
-A new Flutter project.
+แอปพลิเคชันตัวอย่าง
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/neszaran194/Money-Share/assets/173626987/c0ec9fbf-2e67-4936-9d30-f2028c3a79cb" width="200">
+<img src="https://github.com/neszaran194/Money-Share/assets/173626987/ed2c952e-0403-4b8c-8425-db981b171757" width="200">
+<img src="https://github.com/neszaran194/Money-Share/assets/173626987/20ae68ee-8103-4053-a36c-eed2ba756a7d" width="200">
+<img src="https://github.com/neszaran194/Money-Share/assets/173626987/776fbce5-194e-47f3-900a-909d5871505b" width="200">
